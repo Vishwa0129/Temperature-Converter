@@ -1,0 +1,43 @@
+body {
+	background-image: url('0219TemperatureRangeStroke_SC.jpg');
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+.container {
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 50px;
+}
+
+h1 {
+	font-size: 3em;
+	margin-bottom: 30px;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+
+input[type="number"] {
+	padding: 10px;
+	font-size: 1.2em;
+	border: none;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+button {
+	display: block;
+	margin: 0 auto;
+	padding: 10px 20px;
+	border: none;
+	background-color: #fff;
+	color: #333;
+	font-size: 1.2em;
+	cursor: pointer;
+}
