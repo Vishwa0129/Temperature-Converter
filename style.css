@@ -41,3 +41,9 @@ button {
 	font-size: 1.2em;
 	cursor: pointer;
 }
+form{
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+}
